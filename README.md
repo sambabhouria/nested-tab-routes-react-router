@@ -16,3 +16,4 @@ In the project directory, you can run:
 ![GitHub Logo](/src/img/3.png)
 ![GitHub Logo](/src/img/4.png)
 ![GitHub Logo](/src/img/5.png)
+![GitHub Logo](/src/img/6.png)
