@@ -10,4 +10,9 @@ In the project directory, you can run:
 
 
 ## Image:
+![GitHub Logo](/src/img/0.png)
 ![GitHub Logo](/src/img/1.png)
+![GitHub Logo](/src/img/2.png)
+![GitHub Logo](/src/img/3.png)
+![GitHub Logo](/src/img/4.png)
+![GitHub Logo](/src/img/5.png)
