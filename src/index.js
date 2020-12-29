@@ -6,8 +6,8 @@ import { BrowserRouter, Route, Redirect, Switch } from "react-router-dom";
 const routes = (
   <BrowserRouter>
     <Switch>
-      <Route path="/home" component={App} />
-      <Redirect from="/" to="/home" />
+      <Route path={["/profiles", "/comments", "/contact"]} component={App} />
+      <Redirect from="/" to="/profiles" />
     </Switch>
   </BrowserRouter>
 );
