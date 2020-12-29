@@ -36,3 +36,41 @@
     transform: rotate(360deg);
   }
 }
+/* .tabs{
+  margin-top: 25px;
+} */
+
+/* .links {
+  width: 100px;
+  display: flex;
+  flex: 1;
+} */
+
+a {
+  text-decoration: none;
+  text-transform: uppercase;
+  line-height: normal;
+  width: 100%;
+}
+
+.active {
+  color: red;
+  font-weight: bold;
+  border-bottom: 2px red solid;
+  display: block;
+  line-height: 40px;
+  text-align: center;
+}
+
+ol {
+  box-shadow: 0 0 0.5rem 0 rgba(113, 113, 113, 0.23);
+  display: flex;
+  background-color: white;
+}
+
+li {
+  display: inline-block;
+  margin-block: auto;
+  list-style: none;
+  flex: 1
+}
